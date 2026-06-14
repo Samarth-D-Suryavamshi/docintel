@@ -324,6 +324,6 @@ docs/deployment.md
 |-------------|--------|----------|
 | Samarth D Suryavamshi | [GitHub](https://github.com/Samarth-D-Suryavamshi) | [LinkedIn](https://www.linkedin.com/in/samarth-suryavamshi-a15642298/) |
 | Sanmati Payappa Topannavar | [GitHub](https://github.com/sanmati2005) | [LinkedIn](https://www.linkedin.com/in/sanmati-payappa-topannavar-86a30b327/) |
-| Rounak Sharma | N/A | N/A |
+| Rounak Sharma | [GitHub](https://github.com/rounak43) | N/A |
 | Pratiksha D Korishettar | N/A | [LinkedIn](https://www.linkedin.com/in/pratiksha-d-korishettar) |
 | Lakshmi Shital | N/A | [LinkedIn](https://www.linkedin.com/in/lakshmi-shital-4165922a3) |
