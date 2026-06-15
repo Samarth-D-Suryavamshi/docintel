@@ -326,4 +326,4 @@ docs/deployment.md
 | Sanmati Payappa Topannavar | [GitHub](https://github.com/sanmati2005) | [LinkedIn](https://www.linkedin.com/in/sanmati-payappa-topannavar-86a30b327/) |
 | Rounak Sharma | [GitHub](https://github.com/rounak43) | N/A |
 | Pratiksha D Korishettar | N/A | [LinkedIn](https://www.linkedin.com/in/pratiksha-d-korishettar) |
-| Lakshmi Shital | N/A | [LinkedIn](https://www.linkedin.com/in/lakshmi-shital-4165922a3) |
+| Lakshmi Shital | [GitHub](https://share.google/Hgoijy3xNTzleHbQk) | [LinkedIn](https://www.linkedin.com/in/lakshmi-shital-4165922a3) |
